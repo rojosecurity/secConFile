@@ -1,15 +1,4 @@
 #!/bin/bash
-# scanRedFile - Escáner de Configuración de Seguridad para Linux
-# Copyright (C) 2024 [rojosecurity]
-
-# Este programa es software libre: puede redistribuirlo y/o modificarlo
-# bajo los términos de la Licencia Pública General de GNU, versión 3.
-# Consulte la Licencia Pública General de GNU para obtener más detalles.
-#
-# Debería haber recibido una copia de la Licencia Pública General de GNU
-# junto con este programa. En caso contrario, consulte <https://www.gnu.org/licenses/>.
-
-
 
 # plugins auxiliares para el script 
 source plugins/auxiliares.sh
